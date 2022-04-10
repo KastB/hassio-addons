@@ -1,0 +1,9 @@
+[submodule "addon-vzlogger"]
+	path = addon-vzlogger
+	url = git@github.com:KastB/addon-vzlogger.git
+[submodule "addon-fhem"]
+	path = addon-fhem
+	url = git@github.com:KastB/addon-fhem.git
+[submodule "addon-tesla-pv-charging"]
+	path = addon-tesla-pv-charging
+	url = git@github.com:KastB/addon-tesla-pv-charging.git
