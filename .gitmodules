@@ -7,3 +7,6 @@
 [submodule "addon-tesla-pv-charging"]
 	path = addon-tesla-pv-charging
 	url = ../addon-tesla-pv-charging.git
+[submodule "addon-raspberrymatic_net_host"]
+	path = addon-raspberrymatic_net_host
+	url = ../adddon-raspberrymatic_net_host.git
