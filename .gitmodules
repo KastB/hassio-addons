@@ -9,7 +9,7 @@
 	url = ../addon-tesla-pv-charging.git
 [submodule "addon-raspberrymatic_net_host"]
 	path = addon-raspberrymatic_net_host
-	url = ../adddon-raspberrymatic_net_host.git
+	url = ../addon-raspberrymatic_net_host.git
 [submodule "addon-tesla-ble-http-proxy"]
 	path = addon-tesla-ble-http-proxy
 	url = ../addon-tesla-ble-http-proxy.git
